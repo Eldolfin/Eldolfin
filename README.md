@@ -1,6 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on [codlab](https://github.com/Eldolfin/codlab)
 - 🌱 I’m currently learning AI/ML at school
 - 📫 discord: `eldolfin`
 
